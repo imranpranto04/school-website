@@ -1,0 +1,60 @@
+.top-header{
+    background-color: #304774;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    color: white;
+    height: 52px;
+}
+.header-logo{
+    height:194px;
+    border: 1px solid rgb(156, 155, 155);
+}
+.navbar{
+    margin-top:0;
+}
+.header-logo img{
+    height: 165px;
+    margin-top: 18px;
+    margin-bottom: 11px;
+    padding: 10px;
+}
+.navbar-brand{
+    background-color: #304774;
+    color: white;
+}
+
+.nav-header{
+}
+.nav-text{
+    background-color: #304774;
+    color: white;
+    height: 115px;
+}
+.nav-date{
+    margin-top: 10px ;
+    /* margin-bottom: 10px; */
+}
+
+.nav-newsText{
+    background-color: #394374;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    width: 100%;
+    padding: 5px;
+    line-height: 36.5px;
+}
+
+/* ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }*/
+ul li a{
+    text-decoration: none;
+    color: black;
+    margin: 0 10px;
+    font-size: 24px;
+  }

@@ -1,0 +1,18 @@
+.bg-image{
+    background-image: url('../../images/bg-1.png');
+    height: 506px;
+    border-radius: 22px;
+    margin-bottom: 20px;
+}
+.bg-image-text{
+    position: absolute;
+    margin: 20px;
+    width: 381px;
+    height: 122px;
+    left: 98px;
+    top: 741px;
+    background: rgba(68, 90, 133, 0.5);
+    border-radius: 0px 0px 0px 22px;
+    color: white;
+    padding: 30px;
+}
