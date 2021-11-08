@@ -7,17 +7,16 @@
     height: 52px;
 }
 .header-logo{
-    height:194px;
+    background: #fff;
+    /* height:194px; */
     border: 1px solid rgb(156, 155, 155);
 }
 .navbar{
     margin-top:0;
 }
 .header-logo img{
-    height: 165px;
-    margin-top: 18px;
-    margin-bottom: 11px;
-    padding: 10px;
+    padding-left: 88px;
+    /* margin: 0 88px; */
 }
 .navbar-brand{
     background-color: #304774;

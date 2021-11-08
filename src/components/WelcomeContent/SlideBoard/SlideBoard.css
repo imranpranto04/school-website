@@ -1,0 +1,56 @@
+.message-box{
+    display: flex;
+    align-items: center;
+    background: #fff;
+    padding: 7px;
+    margin-bottom: 15px;
+}
+.message-box img{
+    border: 3px solid #304774;
+    border-radius: 20px;
+    height: 114px;
+    width: 113px;
+    margin-right: 20px;
+}
+.message-box p{
+    font-size: 23px;
+    color: black;
+}
+
+.noticeBoard{
+    overflow-y: scroll;
+    height: 350px;
+}
+.notice-box{
+    display: flex;
+    text-align: center;
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+    border-bottom: 0.5px solid #E4E4E4;
+    /* transform: rotate(-0.17deg); */
+}
+
+.noticeAll a{
+    text-align: end;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.fb-box{
+    height: 180px;
+    background: #fff;
+    margin-bottom: 15px;
+}
+.technology{
+    background: #fff;
+    text-align: end;
+    margin-bottom: 15px;
+}
+.technology a{
+    text-decoration: none;
+    font-size: 18px;
+}
+.award img{
+    height: 400px;
+}

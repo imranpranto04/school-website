@@ -16,3 +16,35 @@
     color: white;
     padding: 30px;
 }
+
+.welcomeText{
+    font-size:22px;
+}
+.course-card img{
+    height: 200px;
+}
+.course{
+    margin: 5px;
+}
+
+.best-blog{
+    /* height: 426px; */
+    /* border: 1px solid gray; */
+}
+.best-blog img{
+    /* height: 350px; */
+    width: 100%;
+}
+.icon{
+    margin: 15px 0;
+    color: goldenrod;
+}
+.best-card{
+    margin: 10px;
+}
+.best-card h4{
+    color:#304774;
+}
+.best-card p{
+    color: gray
+}
