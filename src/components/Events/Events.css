@@ -1,4 +1,25 @@
 .event-background{
+    margin-top: 15px;
     background-image: url('../../images/bg-event.png');
+    background-size: cover;
+    background-position: center center;
     height: 186px;
+    width: 100%;
+}
+.card{
+    background: #C4C4C4;
+    padding: 50px;
+
+}
+.card-box{
+    background: white;
+    height:515px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+.card-box p{
+    font-size: 24px;
+    line-height: 36.5px;
+    margin: 50px 0;
 }
