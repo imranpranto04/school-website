@@ -10,7 +10,7 @@
     width: 381px;
     height: 122px;
     left: 98px;
-    top: 741px;
+    top: 715px;
     background: rgba(68, 90, 133, 0.5);
     border-radius: 0px 0px 0px 22px;
     color: white;
@@ -47,4 +47,14 @@
 }
 .best-card p{
     color: gray
+}
+.buttonText{
+    background:#304774;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    padding: 5px;
+    line-height: 36.5px;
+    border-radius: 30px;
 }

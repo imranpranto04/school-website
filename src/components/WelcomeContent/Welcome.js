@@ -12,7 +12,7 @@ const Welcome = () => {
   return (
     <section className="container">
       <div className="row">
-        <div className="col-md-8">
+        <div className="col-md-8 bg-light">
           <div className="bg-image">
             <div className="bg-image-text">
               <h5>Group Study in Library</h5>
@@ -22,7 +22,8 @@ const Welcome = () => {
               </p>
             </div>
           </div>
-          <p className="nav-newsText">
+          
+          <p className="nav-newsText mb-2">
             Welcome to Education School and College
           </p>
             <div className="text-justify p-4 bg-white welcomeText">
@@ -54,7 +55,7 @@ const Welcome = () => {
                       <li>English Medium</li>
                       <li>Technical</li>
                     </ul>
-                    <button className="nav-newsText">Go Details</button>
+                    <button className="buttonText">Go Details</button>
                   </div>    
 
                   <div className="col-md-4 course-card">
@@ -65,7 +66,7 @@ const Welcome = () => {
                       <li>English Medium</li>
                       <li>Technical</li>
                     </ul>
-                    <button className="nav-newsText">Go Details</button>
+                    <button className="buttonText">Go Details</button>
                   </div>
                   
                   <div className="col-md-4 course-card">
@@ -76,7 +77,7 @@ const Welcome = () => {
                       <li>Business Studies</li>
                       <li>Humanities</li>
                     </ul>
-                    <button className="nav-newsText">Go Details</button>
+                    <button className="buttonText">Go Details</button>
                   </div>
                 </div>
             </div>

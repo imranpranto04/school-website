@@ -18,7 +18,7 @@ const Footer = () => {
         <div className="container">
         <div className="footer-card">
           <div className="row">
-            <div className="col-md-4 mt-4 p-2 mb-4">
+            <div className="col-md-4 col-sm-12 mt-4 p-2 mb-4">
                 <p>Contact Us</p>
                 <img className="img-fluid w-75 logoImg" src={logo} alt="" />
                 <li>+880 198634912846, 038980398</li>
@@ -26,7 +26,7 @@ const Footer = () => {
                 <li>Dhaka, Bangladesh</li>
             </div>
 
-            <div className="col-md-4 mt-4 p-2 mb-4">
+            <div className="col-md-4 col-sm-12 mt-4 p-2 mb-4">
                 <p>Important Links</p>
                 
                 <li><a href="#">Dhaka Education Board</a></li>
@@ -37,7 +37,7 @@ const Footer = () => {
 
             </div>
 
-            <div className="col-md-4 mt-4 p-2 mb-4">
+            <div className="col-md-4 col-sm-12 mt-4 p-2 mb-4">
                 <p>Google Map</p>
                 <img className="img-fluid map" src={map} alt="" />
                 
